@@ -26,10 +26,11 @@ Prepare new data, scale it, and use the trained model to make predictions based 
 Inverse transform the prediction to revert it back to the original scale and print the predicted value.
 
 ## Program:
-
+```
 Program to implement the linear regression using gradient descent.
 Developed by: Sasinthar P
 RegisterNumber:  212223230199
+```
 
 ```
 import numpy as np
